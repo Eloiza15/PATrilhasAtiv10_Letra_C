@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# ELOIZA", "C# ELOIZA\C# ELOIZA.csproj", "{9379FBB3-FFF3-43C7-9248-245777EE8FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9379FBB3-FFF3-43C7-9248-245777EE8FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9379FBB3-FFF3-43C7-9248-245777EE8FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9379FBB3-FFF3-43C7-9248-245777EE8FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9379FBB3-FFF3-43C7-9248-245777EE8FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
